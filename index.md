@@ -10,3 +10,7 @@ import numpy as np
 def f(x):
   return np.mean(x)
 ```
+- [x] List test
+- [ ] Outline portfolio
+- [ ] Introduce to world
+- [ ] turn on pages
